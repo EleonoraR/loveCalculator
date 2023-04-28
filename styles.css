@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url("heartBG.jpg");
+/*   background-image: url("heartBG.jpg"); */
+  background-image: url("https://images.pexels.com/photos/5874620/pexels-photo-5874620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -18,8 +19,9 @@ body {
 .container {
   margin: 100px;
   padding: 30px 0;
-  background-color: rgba(178, 0, 92, 0.5);
+  background-color: rgba(82, 1, 43, 0.5);
   border-style: groove;
+  border-radius: 20px;
 }
 h1 {
   text-transform: uppercase;
