@@ -31,7 +31,7 @@ function resultsRandom(min, max) {
   if (randomNumber > 0 && randomNumber <= 30) {
     return `${randomNumber}. YOU SHOULD RUN`;
   } else if (randomNumber > 30 && randomNumber <= 50) {
-    return `${randomNumber}. MAYBE,BUT IT WILL BE TOUGH`;
+    return `${randomNumber}. MAYBE, BUT IT WILL BE TOUGH`;
   } else if (randomNumber > 50 && randomNumber <= 70) {
     return `${randomNumber}. YOU CAN GIVE IT A TRY`;
   } else {
